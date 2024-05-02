@@ -1,0 +1,22 @@
+body {
+  height: 80vh;
+  background: url("https://img.freepik.com/free-photo/flat-lay-boss-day-concept-with-copy-space_23-2148586404.jpg?w=996&t=st=1705134622~exp=1705135222~hmac=24b3a2b2b5aab16357249ea628773323b2923f7e206cb05e0d2838711eff8e6c");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.add_prod{
+  background-color: white;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+}
+
+.full-width-input {
+  width: 90%;
+}

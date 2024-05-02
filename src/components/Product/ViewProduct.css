@@ -1,0 +1,9 @@
+.table_content {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);
+  /* border-radius: 10px; */
+  border-radius: 10px;
+}
+
+.table_content{
+    border-radius: 10px;
+}
